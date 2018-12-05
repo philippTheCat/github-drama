@@ -178,6 +178,8 @@ palantir/tslint
 
 [tip4commit/tip4commit/issues/127](https://github.com/tip4commit/tip4commit/issues/127)
 
+[/tip4commit/tip4commit/issues/157](https://github.com/tip4commit/tip4commit/issues/157)
+
 [todogroup/opencodeofconduct/pull/70](https://github.com/todogroup/opencodeofconduct/pull/70)
 
 [twbs/bootstrap/issues/3057](https://github.com/twbs/bootstrap/issues/3057)
